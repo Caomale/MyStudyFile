@@ -1,2 +1,2 @@
-# firstGitHub
-我第一个Git存储库，用于学习git，创建 readme-edits 分支
+# MyStudyFile
+  我的自学小案例Git存储库，用于存储我自己的一些技术小案例；在学习中发现问题解决问题一点一点的积累技术。
